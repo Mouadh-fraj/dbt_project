@@ -1,0 +1,4 @@
+payment_type,description
+credit_card,Payments via credit card
+paypal,Online payments using PayPal
+bank_transfer,Bank transfer payments
